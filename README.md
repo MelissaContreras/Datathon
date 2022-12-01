@@ -9,7 +9,7 @@ Luego escogí el Modelo de Arbol de desición por ser un modelo de clasificació
     
 ## Proceso Pipeline
   
-Descargamos los archivos de github, luego use VSCode para tratarlos y realizar el modelo.
+Descargamos los archivos de github, luego use la libreria de Python en VSCode para tratarlos y realizar el modelo.
 
 
 
